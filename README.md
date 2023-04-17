@@ -11,7 +11,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png" width=200 />
 </a>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/rizel-bobb-semple/">
+    <a href="https://www.linkedin.com/in/muhammadaziz-esonboyev-1a3785225/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/blackgirlbytes">
