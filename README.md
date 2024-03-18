@@ -30,7 +30,6 @@ I am a Developer Advocate, Software Engineer, and Community Builder.
 - 🌱  I’m currently working on becoming an active open source contributor (and eventually a maintainer)!
 - 💬 Ask me about GitHub, open source, community building, React.js, and AWS.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I've been in the same room as Michelle Obama! 
 
 ---
 
